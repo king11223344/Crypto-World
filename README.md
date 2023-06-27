@@ -1,4 +1,5 @@
 # Crypto World
+![Screenshot (20)](https://github.com/king11223344/Crypto-World/assets/51441410/0d99694c-7a3b-42f9-9339-40ceecfcbaf9)
 
 ## Introduction
 
